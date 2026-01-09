@@ -84,7 +84,6 @@ The system uses **ORB (Oriented FAST and Rotated BRIEF)** algorithm for fingerpr
 ```
 LifeLineID/
 ├── newfinal.py              # Main application (Desktop GUI - Loose mode)
-├── appfinal.py              # Alternative app with stricter matching
 ├── database.sql             # Database schema and sample data
 ├── fingerprint_detector_demo.py  # Standalone fingerprint detection demo
 │
@@ -93,7 +92,6 @@ LifeLineID/
 │   └── save_user.php        # Save user registration
 │
 ├── backend/                 # Python backend utilities
-│   ├── app2.py              # Flask web server
 │   ├── fingerprint_utils.py # Fingerprint matching utilities
 │   └── __pycache__/
 │
@@ -107,17 +105,7 @@ LifeLineID/
 │
 ├── static/                  # Web static assets
 │   ├── script.js            # JavaScript functions
-│   └── style.css            # Stylesheet
-│
-├── templates/               # HTML templates
-│   ├── index.html           # Main landing page
-│   ├── index1.html          # Alternative index
-│   ├── register.html        # Registration form
-│   ├── verify.html          # Verification interface
-│   └── save.php             # Form submission handler
-│
-├── trial/                   # Development/testing versions
-│   ├── app.py - app5.py     # Various app iterations
+│   └── style.css            # Styleshee
 │
 ├── captured_fingerprints/   # Captured fingerprint storage
 ├── captures/                # General captures
@@ -304,18 +292,10 @@ ALLOW_VECTOR_FINGERPRINTS = True  # Accept stylized/vector fingerprints
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
 ## 🙏 Acknowledgments
 
 - OpenCV community for computer vision tools
 - Python Tkinter for GUI framework
 - MySQL for reliable database solutions
 
----
-
-<p align="center">Made with ❤️ for healthcare and emergency identification</p>
 
