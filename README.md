@@ -219,6 +219,30 @@ CREATE TABLE verification_logs (
 );
 ```
 
+
+## Project Protocol
+<img width="1267" height="734" alt="image" src="https://github.com/user-attachments/assets/0933e0c4-0e3d-4a43-a6c1-abda4115b20e" />
+User Registration
+
+<img width="1200" height="733" alt="image" src="https://github.com/user-attachments/assets/45ea0a50-12c0-4573-b8fd-a652b4580b03" />
+Fingerprint Capture
+
+<img width="1225" height="692" alt="image" src="https://github.com/user-attachments/assets/d0e6f467-1a94-48a0-bae7-3d34f9163a4c" />
+Model not accepting any other image 
+
+<img width="1200" height="741" alt="image" src="https://github.com/user-attachments/assets/b03d185c-c20b-4cf3-8f92-570027404ebd" />
+User Verification
+
+<img width="1246" height="727" alt="image" src="https://github.com/user-attachments/assets/98949a64-456c-428d-82cd-2928aeaa6cf3" />
+user multitime verification
+
+<img width="1267" height="715" alt="image" src="https://github.com/user-attachments/assets/182b9c7e-6ed9-4590-9ee5-159ffc028106" />
+tracker
+
+
+
+
+
 ## 📖 Usage
 
 ### Desktop Application
@@ -297,5 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV community for computer vision tools
 - Python Tkinter for GUI framework
 - MySQL for reliable database solutions
+
 
 
