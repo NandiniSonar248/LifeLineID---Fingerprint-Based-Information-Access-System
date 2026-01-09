@@ -68,12 +68,6 @@ The system uses **ORB (Oriented FAST and Rotated BRIEF)** algorithm for fingerpr
 
 ### Web Interface (Alternative)
 
-| Technology | Purpose |
-|------------|---------|
-| **HTML5/CSS3** | Frontend structure and styling |
-| **JavaScript (Vanilla)** | Client-side interactivity |
-| **PHP** | Server-side API endpoints |
-| **Flask (Python)** | Alternative web backend |
 
 ### Computer Vision / Biometrics
 
@@ -324,3 +318,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">Made with ❤️ for healthcare and emergency identification</p>
+
